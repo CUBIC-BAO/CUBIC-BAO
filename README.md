@@ -1,8 +1,8 @@
 ### Hi there 👋
 <!DOCTYPE html>
 <html>
-<head>
-    <style>
+ <head>
+     <style>
         body {
             background-color: #001f3f;
             color: #01ff70;
@@ -42,7 +42,7 @@
     </style>
 </head>
 <body>
-    <h1 align="center">🔒 John Doe - Aspiring CISO 🔒</h1>
+    <h1 align="center">🔒 Karabo Baotlwaeng - Aspiring CISO 🔒</h1>
 
     <div align="center">
         <a href="https://linkedin.com/in/johndoe" target="_blank">
