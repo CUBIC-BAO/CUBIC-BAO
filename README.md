@@ -1,115 +1,61 @@
 ### Hi there 👋
-<!DOCTYPE HTML>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-    <title>Karabo Baotlwaeng - GitHub Profile</title>
-    <style>
-        /* CSS styles for the GitHub profile */
-        body {
-            background-color: #000;
-            color: #fff;
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-        }
-
-        .profile {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            margin-top: 50px;
-        }
-
-        .profile-image {
-            margin-right: 20px;
-        }
-
-        .profile-info {
-            text-align: left;
-        }
-
-        .profile-info h1 {
-            font-size: 24px;
-            margin: 0;
-        }
-
-        .profile-info p {
-            font-size: 16px;
-            margin: 5px 0;
-        }
-
-        .terminal {
-            background-color: #000;
-            border: 2px solid #0f0;
-            border-radius: 5px;
-            padding: 20px;
-            margin-top: 50px;
-        }
-
-        .terminal-header {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-        }
-
-        .terminal-header h2 {
-            font-size: 24px;
-            margin: 0;
-        }
-
-        .terminal-header img {
-            width: 30px;
-            height: 30px;
-        }
-
-        .terminal-body {
-            margin-top: 20px;
-        }
-
-        .terminal-body p {
-            margin: 10px 0;
-        }
-
-        .terminal-body .code {
-            color: #0f0;
-        }
-
-        .terminal-footer {
-            margin-top: 20px;
-            text-align: center;
-        }
-
-        .terminal-footer p {
-            font-size: 14px;
-            margin: 0;
-        }
-    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Profile</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="profile">
-        <div class="profile-image">
-            <img src="profile-image.jpg" alt="Profile Image">
-        </div>
+    <header>
+        <div class="network-bg"></div>
         <div class="profile-info">
+            <img src="images/Project1.jpg" alt="Profile Picture">
             <h1>Karabo Baotlwaeng</h1>
-            <p>Aspiring CISO</p>
-            <p>Location: Johannesburg, South Africa</p>
+            <p>Cybersecurity Enthusiast</p>
         </div>
-    </div>
+    </header>
+    <main>
+        <section class="skills">
+            <h2>Skills</h2>
+            <div class="tool-icons">
+                <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png" alt="Python">
+                <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/java-14-logo.png" alt="Java">
+                <img src="https://codeprogramming.org/wp-content/uploads/2022/01/C-Logo.wine_.png" alt="C++">
+                <img src="https://img.icons8.com/color/452/kali-linux.png" alt="Kali Linux">
+                <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png" alt="Oracle SQL">
+            </div>
+            <p>Guarding the digital realm with:</p>
+            <ul>
+                <li>Python</li>
+                <li>Java</li>
+                <li>C++</li>
+                <li>Kali Linux</li>
+                <li>Oracle SQL</li>
+            </ul>
+        </section>
+        <section class="cybersecurity-project">
+            <h2>Cybersecurity Project</h2>
+            <div class="project-image"></div>
+            <p>Protecting sensitive customer data in the car sales store:</p>
+            <ul>
+                <li>Designed and implemented a secure DBMS solution using Oracle SQL.</li>
+                <li>Utilized Python, Java, and C++ for real-time threat detection and prevention.</li>
+                <li>Showcased hands-on experience in Kali Linux to identify vulnerabilities and strengthen defenses.</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <div class="footer-icons">
+            <img src="linkedin.png" alt="LinkedIn">
+            <img src="twitter.png" alt="Twitter">
+            <img src="github.png" alt="GitHub">
+        </div>
+    </footer>
+</body>
+</html>
 
-    <div class="terminal">
-        <div class="terminal-header">
-            <h2>Welcome ... ... to the Hacker Terminal</h2>
-            <img src="hacker-icon.gif" alt="Hacker Icon">
-        </div>
-        <div class="terminal-body">
-            <p>Welcome, Karabo! You have successfully accessed the hacker terminal.</p>
-            <p ... ... class="code">root@karabo:~$ sudo hack --target github.com</p>
-            <p>Hacking into GitHub...</p>
-            <p class="code">root@karabo:~$ exploit --vulnerability XSS</p>
-            <p>Exploiting XSS ... class="code">root@karabo:~$ logout</p>
-            <p>Logging out...</p>
-        </div>
         <div class="terminal-footer">
             <p>&copy; 2023 Karabo Baotlwaeng. All rights reserved.</p>
         </div>
