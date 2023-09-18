@@ -2,8 +2,7 @@
 # Karabo Baotlwaeng
 
 ## Cybersecurity Enthusiast
-
-![Profile Picture](images/Project1.jpg)
+Dedicated young professional, studying towards a Computer Science major degree. I'm very curious about solving world issues with a variety of modern tech solutions in the quickest way possible. Challenges excite me; as I always break a nerve trying to learn what an average person wouldn't want to. My professional aspirations is to become a Software Developer, Cyber Security Engineer and a Quantum Computing Researcher.
 
 ### Skills
 - Python
@@ -12,20 +11,13 @@
 - Kali Linux
 - Oracle SQL
 
-Guarding the digital realm with these tools!
+### Projects
+*Coming right up!*
 
-### Cybersecurity Project
-![Project Image](images/Your_Project_Image.jpg)
-
-Protecting sensitive customer data in the car sales store:
-- Designed and implemented a secure DBMS solution using Oracle SQL.
-- Utilized Python, Java, and C++ for real-time threat detection and prevention.
-- Showcased hands-on experience in Kali Linux to identify vulnerabilities and strengthen defenses.
 
 ### Connect with Me
-[![LinkedIn](linkedin.png)](https://www.linkedin.com/in/yourlinkedinprofile)
-[![Twitter](twitter.png)](https://twitter.com/yourtwitterhandle)
-[![GitHub](github.png)](https://github.com/yourgithubusername)
+[![LinkedIn](linkedin.png)](https://www.linkedin.com/in/karabo-bao)
+[![GitHub](github.png)](https://github.com/cubic-bao)
 
 &copy; 2023 Karabo Baotlwaeng. All rights reserved.
 
