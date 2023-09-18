@@ -18,8 +18,7 @@ Dedicated young professional, studying towards a Computer Science major degree. 
 ### Connect with Me
 [![LinkedIn]([linkedin.png](![image](https://github.com/CUBIC-BAO/CUBIC-BAO/assets/64380710/452660c0-83a1-4063-beda-2684c66e4523)
 )](https://www.linkedin.com/in/karabo-bao)
- ![github](![image]([https://github.com/CUBIC-BAO/CUBIC-BAO/assets/64380710/dacb16f1-d289-48d1-8e4d-fcc05078880d](https://github.com/CUBIC-BAO/CUBIC-BAO/blob/main/github-sign.png)https://github.com/CUBIC-BAO/CUBIC-BAO/blob/main/github-sign.png)
-)
+![github](github-sign.png)
 
 &copy; 2023 Karabo Baotlwaeng. All rights reserved.
 
